@@ -16,4 +16,6 @@ public class square : MonoBehaviour
 
         transform.Translate(1 * Time.deltaTime, 1 * Time.deltaTime, 0);
     }
+    
+    //fadsf
 }
