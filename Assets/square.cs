@@ -14,6 +14,6 @@ public class square : MonoBehaviour
     void Update()
     {
 
-        transform.Translate(0, 1 * Time.deltaTime, 0);
+        transform.Translate(1 * Time.deltaTime, 1 * Time.deltaTime, 0);
     }
 }
